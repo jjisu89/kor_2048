@@ -61,8 +61,10 @@ var val2caption = function(val){
   "ㅊ",
   "ㅋ",
   "ㅌ",
-  "ㅠ",
-  "ㅎ"];
+  "ㅍ",
+  "ㅎ",
+  "ㅏ",
+  "ㅑ"];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
